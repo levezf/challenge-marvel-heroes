@@ -1,0 +1,2 @@
+
+class DataSourceException implements Exception {}
